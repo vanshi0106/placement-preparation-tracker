@@ -68,6 +68,4 @@ Contributions are welcome!
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-For questions and support, contact the project admin at sakshamsharma614@gmail.com
 
